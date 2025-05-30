@@ -9,5 +9,4 @@ No frameworks or libraries were used.
 
 ## New Page: Tweets
 
-- `tweets.html`: A simple page displaying an embedded tweet.
-- Includes navigation links between `index.html` and `tweets.html` for seamless browsing.
+This page (tweets.html) includes an embedded tweet and links back to the homepage.
