@@ -10,3 +10,7 @@ No frameworks or libraries were used.
 ## New Page: Tweets
 
 This page (tweets.html) includes an embedded tweet and links back to the homepage.
+
+## Update: Learners Table
+
+Added a table with learner details inside the main article section of index.html using semantic HTML and W3C-compliant structure.
